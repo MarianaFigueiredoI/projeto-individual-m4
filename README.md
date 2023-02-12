@@ -1,7 +1,7 @@
 <h1 align="center">Sistema Resilia</h1>
 
 ## Descrição do Projeto
-<p align="justify">A proposta deste projeto foi desenvolver uma modelagem de banco de dados para o lançamento de um novo sistema de acompanhamento para armazenar cursos, turmas e alunos da Resilia.</p>
+<p align="justify">Neste projeto, foi desenvolvida uma modelagem de banco de dados para o lançamento de um novo sistema de acompanhamento para armazenar cursos, turmas e alunos da Resilia.</p>
 
 ## Modelo Relacional
 ![Diagrama](https://github.com/MarianaFigueiredoI/projeto-individual-m4/blob/main/modelo_relacional.png)
